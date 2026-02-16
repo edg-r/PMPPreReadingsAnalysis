@@ -1,0 +1,343 @@
+FILE: PMP 2026 Midterm review.pdf
+PAGES: 25
+
+
+
+===== PAGE 1 =====
+GPCO 400- Policy Making 
+Process Midterm Review 
+February 13, 2026
+
+===== PAGE 2 =====
+Midterm 
+2 long-answer questions
+4 short-answer questions
+2-3:20pm
+Lockdown browser, answers typed into a Canvas quiz 
+2
+
+===== PAGE 3 =====
+3
+Fill out a quick survey:
+https://forms.gle/3PDJ1rvAMUkdyqXD9
+You can also ask questions in the chat as we move along, we’ll track 
+them and address at the end.
+
+
+===== PAGE 4 =====
+Agenda
+● Example on how you can organize your notes (5 min)
+● Topics 2-5 (20 min)
+○ 2: Strategic Action and Coordination 
+○ 3: Interest Groups and how they get organized 
+○ 4: The Psychology of Decision-Making 
+○ 5: Delegation and Principal-Agent Theory
+● 5 min break
+● Topics 6-11 (30 min)
+○ 6: Electoral Democracy I: Parties and Legislatures
+○ 7: Electoral Democracy II: Separation of Powers 
+○ 8: Electoral Democracy III: Voting Rules
+○ 9: Non-Democracies I: Selectorates and Accountability
+○ 10: Non-Democracies II: Economic Policy and Authoritarian Rule
+○ 11: Administrative Bureaucracy and Oversight
+● Q&A
+● (This session will be recorded)
+
+===== PAGE 5 =====
+Public goods 
+Free rider 
+Group size matters 
+How to solve the 
+CAP?
+Policy example 
+How to organize your theories
+There’s a lot of information to process.
+Here’s an example of how you can prepare for the midterm. Think: what, who, how, why?
+(Using CAP since all of you are familiar with it from Memo 1)
+
+===== PAGE 6 =====
+Public goods benefit everyone, even non-contributors 
+Free rider If everyone waits for others to contribute, no one does → Free-rider problem
+Group size matters Small groups (e.g., oil companies) organize easily.
+Large groups  (e.g., consumers) struggle to mobilize
+How to solve the 
+CAP?
+Provide selective incentives: Membership perks strengthen interest groups.
+(Any other solutions?)
+Policy example e.g., aid towards Ukraine
+How to organize your theories
+There’s a lot of information to process.
+Here’s an example of how you can prepare for the midterm. Think: what, who, how, why?
+(Using CAP since all of you are familiar with it from Memo 1)
+
+===== PAGE 7 =====
+Other tips
+Time management:
+● Midterm 2-3:20pm (ideally, 80 min; realistically, 70 min)
+● n long-answer questions, n short-answer questions
+
+
+===== PAGE 8 =====
+Strategic Action and Coordination 
+8
+Reading: Dixit and Nalebuff, Thinking Strategically 
+Core idea: Strategic action and coordination are fundamental to understanding how policymakers, bureaucrats, and 
+interest groups interact. Game theory provides a structured approach to these interactions, where actors anticipate how 
+others will respond to their decisions.
+Key Theoretical Perspectives
+1. Game Theory and Strategic Interaction:
+○ Backward Induction: Decision-makers must anticipate the endgame to determine present actions.
+○ Sequential vs. Simultaneous Games:
+■ In sequential games, one actor moves first (e.g., legislative bargaining).
+■ In simultaneous games, actors move without knowing others’ choices (e.g., elections).
+○ Nash Equilibrium: A situation where no player benefits from unilaterally changing their strategy.
+2. Commitment Problems:
+○ Policymakers may struggle to make credible commitments, leading to policy instability (e.g., shifting tax 
+rates).
+○ Time inconsistency: Future leaders may renege on current policies (e.g., environmental agreements).
+
+===== PAGE 9 =====
+Collective Action - Interest Groups and How They Get Organized
+9
+Reading: Olson, The Logic of Collective Action 
+Core idea: Collective action problems arise when individuals fail to contribute to public goods due to free-riding incentives. Interest groups form to overcome these challenges.
+Key Theoretical Perspectives
+1. Public Goods and the Free-Rider Problem:○ Non-excludability: Public goods benefit everyone, even non-contributors. ○ Non-rivalrous: One person’s use does not reduce others’ ability to use them.○ Common Pool Resources: Goods that are non-excludable but rivalrous.2. Selective Incentives and Group Mobilization:○ Privileged vs. Latent Groups:■ Privileged Group: Value of good or benefits highly concentrated■ Latent Group: A group with common interests that are not (can’t be) realized1. Small groups (e.g., oil companies) organize easily.2. Large groups (e.g., consumers) struggle to mobilize.○ Material incentives (e.g., farm subsidies) encourage participation.
+Key Questions: 
+1. When will cooperation happen? a. individual contributes to the point where her incremental benefit = her incremental cost. 
+
+===== PAGE 10 =====
+Collective Action - Interest Groups and How They Get Organized Cont.
+10
+● In “easy” settings for collective action, groups will emerge on their own; when collective action is “hard” then formal 
+organizations play a more important role.
+Collective action in the real world: 
+● V oting
+● Protesting 
+● Lobbying
+● Industrial organization and self-regulation 
+Critiques and Alternative Views
+● Elinor Ostrom’s Challenge: Olson assumes the government or markets must solve collective action problems, 
+but local governance (e.g., community-led fisheries) can work without external enforcement.
+● Identity and Ideology: Social movements mobilize people without financial incentives
+
+
+===== PAGE 11 =====
+The Psychology of Decision Making 
+11
+Reading: Kahneman, Thinking, Fast and Slow 
+Core idea: Cognitive psychology helps explain why policymakers, voters, and bureaucrats systematically deviate from 
+rational decision-making.
+Key Theoretical Perspectives
+1. System 1 vs. System 2 Thinking:
+○ System 1: Fast, intuitive, and automatic, the “default”(e.g., fear-driven policies after terrorist attacks).
+i. cognitive shortcuts that make efficient decision making possible 
+○ System 2: Slow, logical, and effortful (e.g., deliberative economic analysis).
+2. Three major heuristics: 
+○ Representativeness Heuristic:  People reason by looking for similarities with other classes of phenomena. 
+Insensitive to base rates and sample sizes. 
+○ Availability heuristic: Judging probabilities of outcomes depends on whether familiar examples quickly come to 
+mind
+○ Anchoring effects: Where you start helps determine where you end
+ 
+
+
+===== PAGE 12 =====
+The Psychology of Decision Making Cont 
+12
+Dunning-Kreuger Effect:  Incompetent grossly overestimate their performance; very competent more aware of limitations 
+1. Common Biases Affecting Policy:○ Attribute substitution: occurs when the brain unconsciously replaces a difficult question with a simpler, related question, and then answers the simpler question instead. ○ Availability Heuristic: Recent events overshadow statistical trends (e.g., overestimating violent crime rates).○ Loss Aversion: People fear losing benefits more than they appreciate gains (e.g., opposition to social security cuts).
+.Key Questions: 
+1. Are elites different?  
+a. Elites are less prone to loss aversion, better at playing iterated games,  update heuristics more rapidly and effectively, BUT, elites are more prone to overconfidence2. Why do we care about how politicians make decisions? 
+a. 
+
+
+===== PAGE 13 =====
+Delegation and Principal Agent Theory 
+13
+Reading: Kiewiet & McCubbins, The Logic of Delegation, Chapter 2 
+Core idea: Delegation is an essential mechanism in political systems, enabling elected officials to entrust policymaking and enforcement to bureaucratic agencies, regulatory bodies, and other institutions. However, delegation comes with agency problems, where the agents (bureaucrats, regulators, or executives) may not fully align with the interests of the principals (Congress, Parliament, or voters). Kiewiet and McCubbins analyze how democratic governments manage delegation to minimize agency loss.
+Agency Problems: 
+● Agency Loss: problems occur when an agent (A) acting on behalf of a principal (P) has different incentives and more information than the principal.
+Why it happens:
+● Divergent incentives: Agent pursues their own goals, not the principal’s
+● Information asymmetry: Agent hides inconvenient information or emphasizes favorable actions.● Moral Hazard: If agents believe they will not be closely monitored, they may act against the interests of their principals.
+● Madison’s dilemma: Those entrusted with power may abuse it. (“Who watches the watchmen?”)
+Solutions to Agency Problems: 
+● Contracts● Screening and Selection ● Reporting and Monitoring ● Institutional Constraints on Power 
+
+===== PAGE 14 =====
+Delegation and Principal Agent Theory Cont. 
+14
+1. Why Politicians Delegate
+○ Expertise and Efficiency: Legislators lack specialized knowledge on many issues (e.g., nuclear energy, 
+pharmaceuticals), so they delegate authority to experts.
+○ Blame Avoidance: Politicians delegate controversial policy decisions (e.g., monetary policy to the Federal 
+Reserve) to avoid direct accountability for unpopular outcomes.
+○ Political Control of Bureaucracy: Even though delegation is necessary, politicians design institutions to keep 
+bureaucrats accountable (e.g., budget control, appointment powers).
+Examples of Principal-Agent Relationships: 
+● Boss (P) and worker (A)
+● V oters (P) and politician (A)
+● General (P) and soldiers (A)
+● Government (P) and private military services (A)
+
+
+===== PAGE 15 =====
+Electoral Systems and Legislative Behavior
+15
+Reading: Cox, The Organization of Democratic Legislatures 
+Core Idea: Electoral systems structure how votes matter (shaping party competition, legislative behavior, and policymaking 
+efficiency). The main distinction: majoritarian (plurality) systems and proportional representation (PR) systems.
+ 1. Majoritarian Electoral Systems (e.g., First-Past-the-Post, FPTP)
+○ Mechanism: The candidate with the most votes wins, even without a majority.
+○ Duverger’s Law: Plurality systems favor two-party dominance, as third parties struggle to compete effectively.
+○ Governance Effects:
+■ Leads to single-party majority governments, ensuring decisive policymaking.
+■ However, it may create “manufactured majorities”—where a party wins power without a majority of votes.
+■ Example: The UK Conservatives won a majority of seats in 2015 with only 37% of the vote.
+2. Proportional Representation (PR) Systems (e.g., Germany, Netherlands)
+○ Mechanism: Seats are distributed proportionally to the percentage of votes received.
+○ Duverger’s Hypothesis: PR systems encourage multiparty competition, as even small parties gain representation.
+○ Governance Effects:
+■ Increases inclusivity, representing diverse political preferences.
+■ However, coalition governments can lead to policy gridlock due to negotiation challenges.
+■ Example: In Belgium, a fragmented parliament led to 541 days without a government in 2010-2011.
+3. Mixed Electoral Systems (e.g., Germany, Japan, New Zealand)
+○ Combine FPTP and PR elements, balancing efficiency and proportionality.
+○ Germany’s Mixed-Member Proportional (MMP) system allows small parties to thrive while maintaining district representation.
+
+
+===== PAGE 16 =====
+Separation of Powers
+16
+Reading: Samuels, Separation of Powers 
+Core Idea: The division of government responsibilities into distinct branches (executive, legislative, and judicial) to prevent 
+concentration of power. In democratic governance, two primary institutional designs emerge: presidentialism and 
+parliamentarism. The effectiveness of these systems depends on their ability to balance policy stability (resoluteness) with policy 
+adaptability (decisiveness).
+Presidentialism (e.g., United States, Brazil, Mexico):
+● Fixed terms for executives; separate elections for legislature and president; independent legitimacy between branches.
+● Promotes policy stability (resoluteness) by preventing abrupt changes in leadership or legislation. However, it often leads to 
+deadlock when the executive and legislature are controlled by opposing parties (divided government).
+Parliamentarism (e.g., UK, Germany, Canada):
+● The executive derives legitimacy from the legislature, meaning prime ministers depend on legislative confidence.
+● Leads to greater policy efficiency (decisiveness) as governments can pass legislation without gridlock.
+● However, it can also result in instability through frequent government collapses (vote of no confidence), particularly in 
+multi-party systems.
+Semi-Presidentialism (e.g., France, Russia):
+● President with executive power + prime minister who depends on legislative confidence.
+● Cohabitation periods (when the president and prime minister are from different parties) can create friction or policy 
+stagnation.
+
+===== PAGE 17 =====
+Voting Rules and Political Incentives
+17
+Reading: Lijphart, Patterns of Democracy
+Core Idea: Voting rules → incentives. Voting rules shape how political power is distributed → influences party competition, voter 
+representation, and legislative decision-making. This affects government stability, policy responsiveness, and political 
+polarization.
+Duverger’s Law and Electoral System Effects
+Duverger’s Law:
+● Plurality (First-Past-the-Post, FPTP) systems tend to produce two-party competition by discouraging small-party success.
+Duverger’s Hypothesis:
+● Proportional Representation (PR) fosters multi-party systems because even small parties can gain representation.
+Political implication
+Majoritarian (Plurality) Systems: Politicians cater to swing voters in key districts rather than the nationwide electorate. Leads 
+to policy concentration in competitive areas rather than broad national concerns. (Example: U.S. presidential campaigns 
+focus on battleground states like Pennsylvania and Wisconsin.)
+Proportional Representation (PR) Systems: Encourages party discipline and ideological clarity, as seats are allocated based 
+on party vote share. Creates broad-based coalition governments, requiring negotiation among multiple parties. (Example: 
+Sweden’s PR system enables left-right coalition bargaining.)
+
+===== PAGE 18 =====
+Selectorate Theory and Autocratic Governance
+18
+Reading: Bueno de Mesquita et al., The Logic of 
+Political Survival 
+Core Idea: Selectorate theory explains how leaders 
+remain in power by distributing resources strategically. 
+The model divides the population into:
+● The Nominal Selectorate (everyone who has 
+some influence in leadership selection).
+● The Real Selectorate (those who actually have a 
+say, e.g., party elites).
+● The Winning Coalition (the small group whose 
+support is essential for the leader to stay in 
+power).
+
+
+===== PAGE 19 =====
+Selectorate Theory and Autocratic Governance
+19
+Key Insights
+● Autocrats provide private goods to small coalitions, 
+while democracies provide public goods to large 
+coalitions.
+● Leaders maximize loyalty, not competence, 
+leading to economic inefficiencies in autocracies.
+
+
+===== PAGE 20 =====
+Selectorate Theory and Autocratic Governance
+20
+Key Insights
+● Autocrats provide private goods to small coalitions, 
+while democracies provide public goods to large 
+coalitions.
+● Leaders maximize loyalty, not competence, 
+leading to economic inefficiencies in autocracies.
+Policy Implications
+● Democratization efforts should focus on expanding 
+winning coalitions.
+● Autocrats can fake reforms by expanding the 
+nominal selectorate but keeping the real 
+selectorate small.
+
+
+===== PAGE 21 =====
+Political Economy of Authoritarian Rule
+21
+Reading: Acemoglu & Robinson, Economic Backwardness in Political Perspective 
+Core Idea: Elites block economic progress when it threatens their political power.
+Key Insights:
+● The Political Replacement Effect: Economic growth empowers new groups, threatening the ruling elite.
+● State-led vs. market-led growth: Autocrats often control the economy to prevent opposition forces from gaining power.
+Critiques? Think about Singapore
+Policy implications? Successful economic development requires technology and institutions
+
+
+===== PAGE 22 =====
+Bureaucratic Oversight and Implementation
+22
+Reading: McCubbins & Schwartz, Congressional Oversight Overlooked 
+2 primary models of congressional oversight:
+Police Patrol Oversight (Proactive, Centralized Monitoring)
+● Congress actively and regularly inspects bureaucratic agencies through hearings, audits, and investigations.
+● This method is costly and time-consuming but provides direct control over agencies.
+● Used in high-stakes policies, such as national security or financial regulation (e.g., Federal Reserve oversight).
+Fire Alarm Oversight (Reactive, Decentralized Monitoring)
+● Instead of actively monitoring, Congress sets up mechanisms (e.g., court appeals, public complaints, whistleblower 
+protections) so that affected citizens and interest groups report misconduct.
+● This method is cheaper and politically advantageous, as legislators only respond when there is public outcry.
+● Example: Consumer complaints driving policy changes in the FCC (Federal Communications Commission) or FDA (Food 
+and Drug Administration).
+
+
+===== PAGE 23 =====
+Other resources
+Past midterm & rubric (here)
+Lecture slides (here)
+Syllabus (here)
+
+===== PAGE 24 =====
+Q&A
+
+===== PAGE 25 =====
+Innovators.
+Problem solvers. 
+Policy experts.
+Thank you and 
+good luck! 
+25
