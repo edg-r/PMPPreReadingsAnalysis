@@ -1,12 +1,12 @@
-# PMP 2026 Midterm Theory Application Practice (With In-Text Citations)
+# PMP 2026 Midterm Theory Application Practice (Quote + In-Text Citation Format)
 
 Sources used only:
-1. `PMP 2026 Midterm review.pdf` (via extracted text file lines)
-2. `Reading A.pdf` (via extracted text file lines)
-3. `Reading B.pdf` (via extracted text file lines)
-4. `OLD - PMP Midterm Rubric 2025.pdf` (as application-quality guide)
+1. `PMP 2026 Midterm review.pdf`
+2. `Reading A.pdf`
+3. `Reading B.pdf`
+4. `OLD - PMP Midterm Rubric 2025.pdf` (application-quality guide)
 
-Rubric alignment note: strong answers should integrate theory with concrete application, comparative logic, and nuance rather than definitions alone (OLD Rubric, lines 30-40, 169-173).
+Rubric alignment note: `"Provides a well-structured argument that integrates theory with practical solutions"` (OLD Rubric, lines 39-40) and `"Thoughtful integration of theory with real-world examples"` (OLD Rubric, lines 172-173).
 
 ## Section 1: Reading A
 
@@ -24,65 +24,64 @@ Rubric alignment note: strong answers should integrate theory with concrete appl
 
 ### Theory-by-theory justification
 - **1) Collective Action (9.4/10):**
-  - Why it fits: A broad NGO-industry coalition coordinates around a shared policy package despite heterogeneous preferences, which is textbook mobilization under partial common interest (Review Slides, lines 100-107, 112-118; Reading A, lines 23-37).
-  - Why above others: The central political act in the text is coalition formation and joint signaling before a hearing, which is more directly Olson-type than institutional-design-first explanation (Review Slides, lines 102-105; Reading A, lines 24-27, 49-51).
-  - Holes: Signature breadth does not prove resolved free-riding or durable contribution mechanisms.
+  - Why it fits: `"Collective action problems arise when individuals fail to contribute to public goods due to free-riding incentives"` plus `"a broad, bipartisan group of NGO and industry representatives"` and `"stakeholders may not agree on individual elements"` (Review Slides, lines 103-104; Reading A, lines 23-24, 36).
+  - Why above others: The dominant move is coalition aggregation around one legislative ask: `"encourage the advancement of comprehensive permitting reform legislation"` (Reading A, lines 26-27).
+  - Holes: Signature breadth is observable, but contribution enforcement is not directly shown.
 - **2) Strategic Action + Commitment (8.6/10):**
-  - Why it fits: The letter is timed immediately before a Senate hearing and pushes codification to reduce policy uncertainty, consistent with sequential strategy and commitment logic (Review Slides, lines 89-97; Reading A, lines 24-25, 27-29, 41).
-  - Why below #1: The text provides little direct payoff/equilibrium detail; strategic interpretation is strong but partly inferred.
-  - Holes: Could be symbolic pressure rather than equilibrium-calculated bargaining.
+  - Why it fits: `"Decision-makers must anticipate the endgame"` and `"Time inconsistency: Future leaders may renege"` map to a pre-hearing intervention plus codification: `"January 28 Hearing"` and `"codifying permitting certainty measures"` (Review Slides, lines 89, 97; Reading A, lines 24-25, 41).
+  - Why below #1: Strategic intent is plausible, but explicit payoff matrix/equilibrium behavior is not present.
+  - Holes: Could be symbolic agenda signaling rather than fully strategic equilibrium behavior.
 - **3) Delegation / Principal-Agent (7.8/10):**
-  - Why it fits: Calls for limiting political interference and improving judicial review imply concerns about agency loss, information asymmetry, and institutional controls (Review Slides, lines 160-168; Reading A, lines 39-41).
-  - Why below #2: P-A chain is implied rather than explicitly traced actor-by-actor.
-  - Holes: Delays might stem from principal-imposed legal safeguards, not agent drift.
+  - Why it fits: `"Agency Loss"` and `"Information asymmetry"` align with concern over `"political interference"` and demand for `"improved judicial review"` (Review Slides, lines 162, 165; Reading A, lines 39-41).
+  - Why below #2: Principal-agent chains are implied, not spelled out actor-by-actor.
+  - Holes: Delay may come from principal-imposed legal constraints, not agent drift.
 - **4) Oversight (7.1/10):**
-  - Why it fits: The Senate hearing context maps to centralized oversight; judicial/public channels in permitting can function as decentralized alert mechanisms (Review Slides, lines 314-324; Reading A, lines 24-26, 39).
-  - Why below #3: Oversight appears as an instrument within broader delegation conflict rather than the main causal frame.
-  - Holes: No clear sanction or monitoring design is specified.
+  - Why it fits: `"Congress actively and regularly inspects"` (police patrol) and institutional complaint channels (fire alarm) fit the hearing context and review process concerns (Review Slides, lines 316-323; Reading A, lines 24-26, 39).
+  - Why below #3: Oversight is a mechanism layer within a broader coalition/delegation conflict.
+  - Holes: No explicit monitoring trigger/sanction design is specified in the letter.
 - **5) Separation of Powers (5.9/10):**
-  - Why it fits: The letter targets bicameral legislative coordination and seeks stable codified rules to reduce policy volatility across political cycles (Review Slides, lines 216-223; Reading A, lines 49-50, 41).
-  - Why below #4: Branch-level conflict is background, not the core argument of the reading.
-  - Holes: Limited evidence on executive-legislative or judicial veto conflict.
+  - Why it fits: `"division of government responsibilities into distinct branches"` and US congressional bargaining context are relevant to `"continued partnership with your colleagues in both chambers"` (Review Slides, lines 216-217; Reading A, lines 49-50).
+  - Why below #4: Branch conflict is background, not the text’s main explanatory engine.
+  - Holes: Evidence of direct inter-branch deadlock is thin.
 - **6) Psychology (5.2/10):**
-  - Why it fits: Framing combines affordability, security, and environment to increase salience and reduce resistance, consistent with availability/loss framing tactics (Review Slides, lines 139-141, 149; Reading A, lines 45-48).
-  - Why below #5: Evidence is rhetorical output, not direct cognitive-process evidence.
-  - Holes: Strategic messaging can be fully rational without heuristics.
+  - Why it fits: `"Availability heuristic"` and `"Loss Aversion"` can interpret the letter’s bundled salience framing: `"energy affordability, national security, and environmental benefits"` (Review Slides, lines 139, 149; Reading A, lines 45-46).
+  - Why below #5: The text shows messaging output, not direct cognitive-process evidence.
+  - Holes: Framing may be purely strategic rather than heuristic/bias-driven.
 - **7) Voting Rules (3.9/10, uncertainty medium-high):**
-  - Why it fits: Bipartisan positioning may target pivotal legislators under majoritarian incentive structures.
-  - Why below #6: No explicit electoral-rule mechanisms appear in the text (Review Slides, lines 238-249; Reading A, lines 23-24).
-  - Holes: Inference-heavy; weak direct support.
+  - Why it fits: `"Voting rules → incentives"` could weakly explain bipartisan coalition positioning toward pivotal legislators (Review Slides, line 238; Reading A, lines 23-24).
+  - Why below #6: No concrete rule mechanism (district incentives, threshold effects) is in the reading.
+  - Holes: Inference-heavy; low direct observability.
 - **8) Electoral Systems (3.5/10, uncertainty high):**
-  - Why it fits: US institutional context is present, but party-system mechanics are not developed.
-  - Why below #7: Duverger-style party-structure predictions are not testable from this document (Review Slides, lines 191-203; Reading A, lines 24-26).
+  - Why it fits: Only weakly through general US legislative context.
+  - Why below #7: `"majoritarian"` / `"proportional representation"` party-system dynamics are not evidenced in this document (Review Slides, lines 192-203).
   - Holes: Theory-data mismatch.
 - **9) Authoritarian Political Economy (1.6/10, uncertainty very high):**
-  - Why it fits: Only via strained analogy about elites shaping rules for power.
-  - Why below #8: Core authoritarian assumptions do not match this democratic congressional lobbying case (Review Slides, lines 303-307; Reading A, lines 22-51).
+  - Why it fits: Only by strained analogy to `"Elites block economic progress when it threatens their political power"` (Review Slides, line 303).
+  - Why below #8: Regime assumptions do not match this democratic congressional case.
   - Holes: Overreach risk is high.
 - **10) Selectorate Theory (1.3/10, uncertainty very high):**
-  - Why it fits: Coalition language exists, but not selectorate mechanics.
-  - Why lowest: No nominal/real/winning coalition evidence in the selectorate sense (Review Slides, lines 261-268; Reading A, lines 23-51).
+  - Why it fits: Superficial coalition language only.
+  - Why lowest: No evidence of `"Nominal Selectorate"`, `"Real Selectorate"`, or `"Winning Coalition"` mechanics in Reading A (Review Slides, lines 262-267; Reading A, lines 23-51).
   - Holes: Minimal explanatory leverage.
 
 ### Theory interaction map
 - **Reinforcing pairs/groups:**
-  - Collective Action + Strategic Coordination: coalition solves mobilization and times intervention to a key institutional moment (Review Slides, lines 89-97, 100-118; Reading A, lines 24-27).
-  - Principal-Agent + Oversight: oversight mechanisms are concrete tools to manage agency loss (Review Slides, lines 160-168, 314-324; Reading A, lines 39-41).
-  - Commitment logic + Separation-of-Powers: codification is a strategy to reduce instability across actors and time (Review Slides, lines 95-97, 216-223; Reading A, line 41).
+  - Collective Action + Strategic Coordination: `"groups will emerge"` + `"anticipate the endgame"` + timed hearing intervention (Review Slides, lines 112-113, 89; Reading A, lines 24-27).
+  - Principal-Agent + Oversight: `"Agency Loss"` is managed via `"Reporting and Monitoring"` and oversight tools (Review Slides, lines 162, 168, 316-323).
+  - Commitment + Separation of Powers: `"Time inconsistency"` pressure supports codification in a multi-veto setting (Review Slides, line 97; Reading A, line 41).
 - **Countering/conflicting pairs/groups:**
-  - Rational strategic models vs psychology framing: policy choice can be read as equilibrium play or as salience management.
-  - Collective-action optimism vs P-A skepticism: coalition agreement does not ensure implementation fidelity.
-  - Democratic institutional lenses vs selectorate/authoritarian lenses: assumption mismatch weakens cross-application.
+  - Rational strategic account vs bias account: `"Game theory provides a structured approach"` vs `"cognitive psychology helps explain ... deviate from rational decision-making"` (Review Slides, lines 85-86, 129-130).
+  - Coalition agreement vs implementation control: collective alignment does not automatically remove agency loss.
+  - Democratic institutional lenses vs autocratic survival lenses: assumption mismatch.
 
 ### Theoretical holes and balancing critiques
-- One advocacy letter cannot establish causal mechanism with high confidence (Reading A, lines 22-51).
-- Uncertainty and delay could reflect precautionary legal design, not pure bureaucratic failure (Reading A, lines 27-29, 43-44).
-- Broad coalition can signal either genuine convergence or lowest-common-denominator bargaining (Reading A, lines 36-40).
-- Low-ranked theories are included for completeness but should be flagged as overreach if presented as primary.
+- Evidence base is one advocacy letter: `"We submit this letter"` (Reading A, line 23), so mechanism confidence should remain moderate.
+- Delay causality is contested: could be overregulation or safety/legal checks, not just bureaucracy: `"safe deployment"` and `"uphold our strong environmental standards"` (Reading A, lines 29, 43).
+- Coalition breadth can mean either true convergence or low-common-denominator language: `"stakeholders may not agree on individual elements"` (Reading A, line 36).
 
 ### Balanced exam-ready claim (best argument + best counterargument)
-- **Best argument:** Reading A is primarily an Olson + strategic-commitment case: heterogeneous actors overcome coordination barriers, package selective priorities, and push codified certainty at a pivotal hearing node (Review Slides, lines 89-97, 102-107; Reading A, lines 24-41).
-- **Best counterargument:** Coalition breadth may be cheap talk; without explicit delegation and oversight architecture, certainty reforms may lock in organized-interest advantages rather than improve accountable implementation (Review Slides, lines 160-168, 314-324; Reading A, lines 39-41).
+- **Best argument:** Reading A is primarily Olson + commitment strategy: `"free-riding incentives"` and coalition mobilization are handled through a coordinated, timed push for rule certainty (Review Slides, lines 103-104, 95-97; Reading A, lines 24-41).
+- **Best counterargument:** Without explicit monitoring/enforcement architecture, codification can harden organized-interest influence rather than improve accountable implementation (`"Reporting and Monitoring"` / oversight logic) (Review Slides, lines 168, 316-324; Reading A, lines 39-41).
 
 ## Section 2: Reading B
 
@@ -100,93 +99,92 @@ Rubric alignment note: strong answers should integrate theory with concrete appl
 
 ### Theory-by-theory justification
 - **1) Authoritarian Political Economy (9.6/10):**
-  - Why it fits: The reading directly links rights erosion, repression, blocked competition, and economic collapse, matching elite power-preservation over growth (Review Slides, lines 303-307; Reading B, lines 44-51, 67-70).
-  - Why above others: The text explicitly makes the political-institutions-to-prosperity causal claim.
-  - Holes: Mechanisms are plausible but not empirically decomposed (intentional blocking vs state incapacity).
+  - Why it fits: The reading directly tracks `"Elites block economic progress when it threatens their political power"` with evidence of `"systematic dismantling of rights"` and catastrophic contraction (Review Slides, line 303; Reading B, lines 49-50, 45-47).
+  - Why above others: The core causal chain in the text is institutional rights collapse -> long-run economic ruin.
+  - Holes: Intentional elite strategy and generalized governance incapacity are not fully separated.
 - **2) Selectorate Theory (9.2/10):**
-  - Why it fits: Stolen elections and continued reliance on regime insiders map to survival through narrow essential support rather than broad consent (Review Slides, lines 261-268, 275-279; Reading B, lines 37-39, 74-77).
-  - Why below #1: W/S ratio and private-goods allocation are inferred, not measured in-text.
-  - Holes: Coalition size/composition evidence is indirect.
+  - Why it fits: `"small group whose support is essential"` and `"Leaders maximize loyalty"` match stolen-election persistence and insider continuity (Review Slides, lines 266-267, 278; Reading B, lines 37, 38-39, 76-77).
+  - Why below #1: W/S ratio and private/public goods allocation are inferred rather than measured.
+  - Holes: Coalition structure is plausible but indirect in this text.
 - **3) Separation of Powers (8.6/10):**
-  - Why it fits: The reading explicitly diagnoses collapse of checks and balances and calls for civilian government constrained by law and accountable institutions (Review Slides, lines 216-223; Reading B, lines 68-70, 78-80).
-  - Why below #2: It explains institutional remedy more than incumbent survival logic.
-  - Holes: Transition sequencing and enforcement capacity remain underspecified.
+  - Why it fits: `"checks and balances"` erosion is explicitly diagnosed and paired with a call for law-bound civilian rule: `"constrained by law ... accountable to voters"` (Reading B, lines 68, 78-79).
+  - Why below #2: It explains institutional remedy more than immediate survival mechanics.
+  - Holes: Transition enforcement sequencing is underdeveloped.
 - **4) Strategic Action + Commitment (7.7/10):**
-  - Why it fits: The legal-certainty argument for investment is a commitment-credibility claim; criticism of improvised external control points to time-consistency risk (Review Slides, lines 95-97; Reading B, lines 83-93).
-  - Why below #3: Political survival and institutional collapse are more central than strategic timing details.
-  - Holes: Restoring credibility in weak-rule contexts is difficult and slower than asserted.
+  - Why it fits: `"Policymakers may struggle to make credible commitments"` maps to `"legal certainty—enforceable contracts, clear taxation and predictable rules"` for investment (Review Slides, lines 95-96; Reading B, lines 88-89).
+  - Why below #3: Strategic commitment is important but subordinate to regime-survival and institutional breakdown narratives.
+  - Holes: Rebuilding credibility under weak institutions is harder than stated.
 - **5) Collective Action (6.9/10):**
-  - Why it fits: Opposition coordination and mass voting reveal successful anti-dictatorship mobilization (Review Slides, lines 103-107, 115-117; Reading B, lines 71-77).
-  - Why below #4: Mobilization success did not translate into power due institutional blockage.
-  - Holes: Free-rider mitigation/enforcement mechanisms are not detailed.
+  - Why it fits: `"Collective action in the real world: Voting"` aligns with mass anti-regime coordination: `"voted overwhelmingly"` and `"landslide win"` (Review Slides, lines 115-116; Reading B, lines 36, 74).
+  - Why below #4: Mobilization did not convert into authority: `"translation into power was thwarted"` (Reading B, line 77).
+  - Holes: Free-rider mitigation mechanisms are not specified.
 - **6) Principal-Agent (6.6/10):**
-  - Why it fits: Citizens as principals faced severe agency loss where rulers acted against public preferences, and monitoring/sanction pathways were weakened (Review Slides, lines 162-168; Reading B, lines 49-51, 76-80).
-  - Why below #5: Under authoritarian control, standard P-A accountability assumptions are structurally weakened.
-  - Holes: Theory may underplay coercion compared with survival logic.
+  - Why it fits: `"Agency Loss"` and weak monitoring logic match citizen-principal inability to discipline rulers despite preferences (Review Slides, lines 162, 168; Reading B, lines 76-80).
+  - Why below #5: Authoritarian coercion breaks standard democratic sanction assumptions.
+  - Holes: P-A can understate coercion and survival incentives.
 - **7) Voting Rules (6.2/10, uncertainty medium):**
-  - Why it fits: The reading centers on preference aggregation and blocked vote translation into authority, directly invoking democratic aggregation logic (Review Slides, lines 238-240; Reading B, lines 62-65, 76-77).
-  - Why below #6: It lacks concrete electoral-rule design details (FPTP/PR thresholds).
+  - Why it fits: Democracy is defined as `"aggregating preferences while protecting liberties"` and the failure is vote-to-power translation (Reading B, lines 62-63, 76-77).
+  - Why below #6: No explicit FPTP/PR institutional architecture is given.
   - Holes: Fraud/coercion may dominate formal rule effects.
 - **8) Oversight (5.1/10):**
-  - Why it fits: Rebuilding accountable institutions implies need for monitoring architecture.
-  - Why below #7: No explicit police-patrol/fire-alarm mechanism is specified (Review Slides, lines 316-324; Reading B, lines 78-80).
-  - Holes: Oversight is downstream of legitimacy restoration.
+  - Why it fits: Institutional rebuilding implies eventual need for `"hearings, audits, and investigations"` and reporting channels (Review Slides, lines 317-323; Reading B, lines 78-80).
+  - Why below #7: Oversight design is not specified in operational detail.
+  - Holes: Downstream reform, not immediate explanatory core.
 - **9) Psychology (4.8/10):**
-  - Why it fits: Oil-first framing may involve anchoring/attribute substitution in public argumentation (Review Slides, lines 141, 149; Reading B, lines 83-87).
-  - Why below #8: Cognitive bias evidence is interpretive, not directly observed.
-  - Holes: Could be deliberate strategic messaging, not heuristic error.
+  - Why it fits: Oil-first framing may be anchoring: `"He talked much about oil but not at all about democracy"` (Reading B, lines 32-33).
+  - Why below #8: Cognitive evidence is inferential, not directly observed.
+  - Holes: Could be strategic rhetoric rather than heuristic error.
 - **10) Electoral Systems (3.4/10, uncertainty high):**
-  - Why it fits: Elections are discussed, but system-structure mechanics are not.
-  - Why lowest: Duverger and threshold claims cannot be evaluated from this text (Review Slides, lines 191-203; Reading B, lines 72-77).
+  - Why it fits: Elections are discussed.
+  - Why lowest: No evidence for `"Duverger’s Law"` or threshold-based party-structure mechanisms in this text (Review Slides, lines 243-245; Reading B, lines 72-77).
   - Holes: Theory-data mismatch.
 
 ### Theory interaction map
 - **Reinforcing pairs/groups:**
-  - Authoritarian Political Economy + Selectorate: power-preservation incentives explain both repression and economic distortion (Review Slides, lines 275-279, 303-307; Reading B, lines 49-51, 67-70).
-  - Separation-of-Powers + Principal-Agent + Oversight: institutional checks are required to convert popular will into accountable governance (Review Slides, lines 216-223, 314-324; Reading B, lines 76-80).
-  - Strategic commitment + institutional-rights logic: legal predictability is needed for investment and rebuilding (Review Slides, lines 95-97; Reading B, lines 88-93).
+  - Authoritarian Political Economy + Selectorate: `"threatening the ruling elite"` plus `"maximize loyalty"` jointly explain repression and distortion (Review Slides, lines 305, 278; Reading B, lines 49-50, 67-70).
+  - Separation of Powers + Principal-Agent + Oversight: `"constrained by law"` governance is the institutional condition for reducing agency abuse (Reading B, line 78; Review Slides, lines 162-168, 316-323).
+  - Commitment + rights restoration: `"legal certainty"` is required for durable investment and recovery (Reading B, lines 88-91).
 - **Countering/conflicting pairs/groups:**
-  - Collective action optimism (clear voter will) vs selectorate realism (incumbent survival despite mass opposition).
-  - External-control strategy vs legitimacy-through-consent argument.
-  - Formal voting rules vs coercive capacity explanations for outcomes.
+  - Collective-action optimism (`"landslide win"`) vs selectorate realism (`"translation into power was thwarted"`) (Reading B, lines 74, 77).
+  - External-control narrative vs legitimacy-through-consent narrative: `"run Venezuela"` conflicts with `"social consent"` model (Reading B, lines 32, 64).
+  - Formal rules account vs coercive-capacity account.
 
 ### Theoretical holes and balancing critiques
-- The source is an op-ed, so causal claims are strong-form normative arguments, not full process-tracing (Reading B, lines 56-65).
-- Intentional elite blocking and generalized state weakness are not fully disentangled.
-- Electoral-rule inferences should be labeled medium/high uncertainty due missing rule detail.
-- Transition strategy is normatively clear but operationally thin on enforcement sequencing.
+- Genre caveat: this is a normative argument with policy advocacy tone, not full causal process-tracing.
+- Causal ambiguity remains between elite-intentional blocking and broad state fragility.
+- Electoral-rule claims should stay explicitly uncertain unless rule design data is added.
 
 ### Balanced exam-ready claim (best argument + best counterargument)
-- **Best argument:** Reading B is best explained by the combined logic of Authoritarian Political Economy + Selectorate + Separation of Powers: narrow survival incentives drove rights/institution erosion and economic collapse; recovery requires enforceable rule-bound, accountable governance (Review Slides, lines 261-279, 303-307, 216-223; Reading B, lines 49-51, 67-70, 78-80).
-- **Best counterargument:** Rights-restoration is necessary but not sufficient; without a credible transition coalition and enforcement architecture, formal democratic commitments can remain nominal and reversible (Review Slides, lines 95-97, 292-296; Reading B, lines 76-77, 113-115).
+- **Best argument:** Reading B is best captured by authoritarian political economy + selectorate + institutional constraints: rights destruction and narrow-coalition survival produced collapse; recovery needs enforceable law-bound accountability (`"constrained by law ... accountable to voters"`) (Reading B, lines 78-79; Review Slides, lines 303-307, 266-279).
+- **Best counterargument:** `"restoring rights and rebuilding institutions"` is necessary but may be insufficient without credible transition enforcement and coalition restructuring (Reading B, lines 114-115; Review Slides, lines 292-296, 95-97).
 
 ## Section 3: Cross-reading synthesis
 
 ### Which theories are consistently strongest across both readings
-- Strategic action/commitment is consistently high because both cases center on credibility, sequencing, and institutional durability (Review Slides, lines 89-97).
-- Delegation/oversight remains relevant in both, though central in Reading A and supporting in Reading B (Review Slides, lines 160-168, 314-324).
-- Collective action is strong across both, but in Reading B it is constrained by blocked translation from preferences to power (Review Slides, lines 103-107; Reading B, lines 76-77).
+- Strategic commitment logic is consistently relevant: `"credible commitments"` and `"time inconsistency"` matter in both policy reform and regime recovery contexts (Review Slides, lines 95-97).
+- Delegation/oversight remains cross-cutting: `"Agency Loss"` and `"Reporting and Monitoring"` are useful in both settings, though with different feasibility (Review Slides, lines 162, 168).
+- Collective action is strong in both, but binding constraints differ: coalition-building in A vs institutional blockage in B.
 
 ### Where rankings change between readings and why
-- Collective Action: #1 in Reading A, mid-tier in Reading B because B demonstrates institutional veto/coercion after mobilization (Reading A, lines 23-37; Reading B, lines 76-77).
-- Selectorate + Authoritarian Political Economy: near-bottom in A, top in B due direct regime-type fit in B (Review Slides, lines 261-279, 303-307; Reading B, lines 49-51, 67-70).
-- Separation of Powers: rises in B because checks-and-balances breakdown is explicit and causal (Reading B, lines 68-70, 78-80).
+- Collective Action drops from top in A to mid-tier in B because B explicitly states `"translation into power was thwarted"` (Reading B, line 77).
+- Selectorate + authoritarian political economy rise sharply in B due direct regime fit: `"small group whose support is essential"` and `"Elites block economic progress"` (Review Slides, lines 266-267, 303).
+- Separation of Powers rises in B because collapse/restoration of checks is explicit: `"checks and balances"` were chipped away (Reading B, line 68).
 
 ### Major theory-to-theory complementarities and contradictions across cases
-- Complementarity: Collective Action + Strategic Coordination in both cases, but with different constraints (institutional access in A vs institutional blockage in B).
-- Complementarity: P-A + Oversight tools matter in both, but feasibility differs by regime context.
-- Contradiction: Democratic coalition/public-goods logic (A) conflicts with narrow-coalition survival logic (B).
-- Contradiction: Preference aggregation can succeed procedurally in democratic settings but fail when enforcement institutions are captured.
+- Complementarity: coalition mobilization + strategic sequencing in both cases.
+- Complementarity: delegation + oversight in both, with stronger operational tractability in Reading A’s setting.
+- Contradiction: democratic coalition/public-goods governance logic in A vs narrow-coalition survival logic in B.
+- Contradiction: preference aggregation can be clear, but power transfer can still fail without institutional enforcement.
 
 ### 3-5 concise exam claim vs counterclaim pairs
-- **Claim:** Broad coalition letters indicate solved collective action.  
-  **Counterclaim:** They indicate alignment signaling, not necessarily solved enforcement/contribution problems.
-- **Claim:** Codifying rules solves uncertainty.  
-  **Counterclaim:** Codification can also entrench rigid or captured rules without accountability upgrades.
-- **Claim:** Mass anti-dictatorship voting proves transition readiness.  
-  **Counterclaim:** Mobilization without enforceable institutions does not guarantee power transfer.
-- **Claim:** Post-dictator oil strategy can drive fast recovery.  
-  **Counterclaim:** Without credible legal commitments, investment remains unlikely despite reserves.
-- **Claim:** Elections are the core fix.  
-  **Counterclaim:** Elections plus checks, oversight, and real accountability expansion are required for durable recovery.
+- **Claim:** Broad coalition letters prove collective-action resolution.  
+  **Counterclaim:** `"stakeholders may not agree on individual elements"` implies unresolved distributional conflict (Reading A, line 36).
+- **Claim:** Codification resolves policy uncertainty.  
+  **Counterclaim:** Without monitoring architecture, codification can still preserve agency loss (`"Reporting and Monitoring"`) (Review Slides, line 168).
+- **Claim:** Mass voting proves democratic transition readiness.  
+  **Counterclaim:** `"translation into power was thwarted"` shows institutional conversion failure (Reading B, line 77).
+- **Claim:** Oil-led recovery can substitute for political reform.  
+  **Counterclaim:** `"legal certainty ... is a must"` and capital `"won’t deploy ... into a legal vacuum"` (Reading B, lines 88-91).
+- **Claim:** Elections alone are the fix.  
+  **Counterclaim:** Recovery requires `"restoring rights and rebuilding institutions"` plus enforceable accountability (Reading B, lines 114-115, 78-80).
 
